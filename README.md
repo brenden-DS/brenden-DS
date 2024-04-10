@@ -12,6 +12,8 @@ Feel free to explore my repositories where I showcase my data science projects. 
 - Data Visualization
 - Python
 - SQL
+- Excel
+- Power BI 
 
 ## Contact Me
 I am always open to collaborations and new opportunities. Feel free to reach out to me via email at brendentinashe@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/tinashe-b-sithole-46382b1b4) 
