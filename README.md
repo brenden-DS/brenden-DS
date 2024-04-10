@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello there! I am a budding data scientist passionate about leveraging data to derive valuable insights and drive informed decision-making. With a strong foundation in data analysis, machine learning, and data visualization, I am dedicated to expanding my skills and contributing to innovative projects.
+Hello there! I am Brenden, a budding data scientist passionate about leveraging data to derive valuable insights and drive informed decision-making. With a strong foundation in data analysis, machine learning, and data visualization, I am dedicated to expanding my skills and contributing to innovative projects.
 
 ## Projects
 Feel free to explore my repositories where I showcase my data science projects. From predictive modeling to exploratory data analysis, each project reflects my commitment to applying data science techniques to real-world problems.
