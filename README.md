@@ -9,13 +9,13 @@ Feel free to explore my repositories where I showcase my data science projects. 
 ## Skills
 Here are some of the technologies I work with:
 
-| Skill                | Icon                           |
+| Skill                |                                |
 |----------------------|--------------------------------|
 | Data Analysis        | 📊                             |
 | Machine Learning     | 🤖                             |
 | Data Visualization   | 📈                             |
 | Python               | 🐍                             |
-| SQL                  | 🗄️                             |
+| SQL                  | 🗄️                              |
 | Excel                | 📅                             |
 | Power BI             | 📊                             |
 
