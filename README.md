@@ -44,7 +44,7 @@ Rather than just reporting historical data, I translate complex data pipelines i
 ## 🤝 Let's Collaborate
 I partner with mid-sized enterprises, logistics networks, and retail distributors looking to optimize their operational workflows.
 
-*   **Email:** [[brendentinashe@gmail.com](mailto:brendentinashe@gmail.com)
+*   **Email:** [brendentinashe@gmail.com](mailto:brendentinashe@gmail.com)
 *   **LinkedIn:** [LinkedIn](https://www.linkedin.com/tinashe-b-sithole-46382b1b4)
 *   **Availability:** Open for contract consulting engagements, dashboard refactoring, and data infrastructure design.
 
